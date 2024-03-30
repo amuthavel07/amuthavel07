@@ -10,6 +10,7 @@ Welcome to my realm of data-driven exploration and analytical insights tailored 
 My career aspirations revolve around roles in data science and analysis, with a specific emphasis on leveraging machine learning methodologies within the geotechnical domain. I'm committed to utilizing my skills and expertise in:
 
 **📈 Data Scientist:** Utilizing data-driven insights to inform decisions, foster innovation, and drive business growth within the geotechnical sphere.
+
 **🔍 Data Analyst:** Diligently examining data to uncover valuable insights and provide the groundwork for strategic decision-making processes.
 
 # 💼 My Skills
@@ -17,6 +18,7 @@ My career aspirations revolve around roles in data science and analysis, with a 
 🐍 Python
 💽 SQL
 📊  PowerBI
+
 **Machine Learning (ML) Algorithms:**
 Linear Regression
 Decision Trees
@@ -24,14 +26,17 @@ Random Forest
 Support Vector Machines (SVM)
 K-Means Clustering
 Principal Component Analysis (PCA)
+
 **Libraries:**
 📊 Excel for Data Analytics
 🐼 Pandas
 🔢 Numpy
+
 **Geotechnical Software:**
 🌍 Plaxis 2D
 🗺️ Geo5
 🌐 Google Earth Engine
+
 **Civil Software:**
 🏗️ AutoCAD
 🏢 ArcGIS
