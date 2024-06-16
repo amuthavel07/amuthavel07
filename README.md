@@ -24,9 +24,8 @@ My career aspirations revolve around roles in data science and analysis, with a 
 - Linear Regression
 * Decision Trees
 + Random Forest
-- Support Vector Machines (SVM)
 * K-Means Clustering
-+ Principal Component Analysis (PCA)
++ KNN
 
 **Libraries:**
 - 📊 Excel for Data Analytics
@@ -45,7 +44,7 @@ My career aspirations revolve around roles in data science and analysis, with a 
 # 📫 Let's Connect
 I'm always eager to connect with fellow data enthusiasts and spatial thinkers. Don't hesitate to reach out to me through:
 
-- **📧 Email:** amuthavelkarthi07@gmail.com
+- **📧 Email:** amuthavelr.07@gmail.com
 * **💼 LinkedIn:** [www.linkedin.com/in/amuthavelr/]
 
 # 🚀 Charting the Future
